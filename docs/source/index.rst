@@ -8,13 +8,13 @@ Welcome to DocOps's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
-   example1
-   
    example2
    example1
 
+
+   :caption: Contents:
+   
 
 
 Indices and tables
