@@ -1,2 +1,2 @@
 # DocOps
-DocOps_test rep
+Описание репозитория
