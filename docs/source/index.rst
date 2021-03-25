@@ -12,6 +12,7 @@
 
    example1
    example2
+   example3
    
 
 Индексы и таблицы
