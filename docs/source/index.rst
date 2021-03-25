@@ -11,8 +11,9 @@ Welcome to DocOps's documentation!
    :caption: Contents:
 
    example1
-   example1
+   
    example2
+   example1
 
 
 
