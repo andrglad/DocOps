@@ -10,6 +10,10 @@ Welcome to DocOps's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   file1
+   file2
+   file3
+
 
 
 Indices and tables
