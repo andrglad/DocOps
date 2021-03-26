@@ -1,10 +1,10 @@
-.. DocOps documentation master file, created by
-   sphinx-quickstart on Thu Mar 25 10:11:00 2021.
+.. DocOps test documentation master file, created by
+   sphinx-quickstart on Fri Mar 26 03:27:44 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Привет!
-==================================
+Welcome to DocOps test's documentation!
+=======================================
 
 .. toctree::
    :maxdepth: 2
@@ -13,7 +13,6 @@
    file1
    file2
    file3
-
 
 
 Indices and tables
