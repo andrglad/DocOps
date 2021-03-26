@@ -16,7 +16,6 @@ Welcome to DocOps Sphinx's documentation!
 
 
 
-
 Indices and tables
 ==================
 
